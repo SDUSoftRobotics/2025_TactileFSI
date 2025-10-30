@@ -12,7 +12,7 @@ Example datasets are provided for:
 
 - Underwater 1D sensor
 
-**Learning**
+**Machine Learning**
 
 The Learning folder contains MATLAB code for fuzzy clustering, used to train and analyze the dataset.
 Example data includes:
@@ -29,5 +29,6 @@ This folder includes MATLAB and Python code for establishing a TCP/IP connection
 It is used to connect the trained ANFIS model in MATLAB with Python to interface and control the UR robot during the HRI demonstrations.
 
 **FSI COMSOL Simulation** 
+
 This section contains files and instructions related to the Fluid–Solid Interaction (FSI) simulation performed in COMSOL Multiphysics.
 A detailed description and simulation data can be found at the following [link](https://github.com/mwberghuis/softsensor?tab=readme-ov-file)
