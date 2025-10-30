@@ -17,8 +17,17 @@ Example datasets are provided for:
 The Learning folder contains MATLAB code for fuzzy clustering, used to train and analyze the dataset.
 Example data includes:
 
-- 1D oil sensor with 100 cSt viscosity and 1.5 mm diameter
+- 1D sensor all data
 
 - 2D 60×60 sensor
 
 These datasets correspond to those used in the paper.
+
+**MATLAB-Python TCP**
+
+This folder includes MATLAB and Python code for establishing a TCP/IP connection between MATLAB and Python.
+It is used to connect the trained ANFIS model in MATLAB with Python to interface and control the UR robot during the HRI demonstrations.
+
+**FSI COMSOL Simulation** 
+This section contains files and instructions related to the Fluid–Solid Interaction (FSI) simulation performed in COMSOL Multiphysics.
+A detailed description and simulation data can be found at the following link: [Link text]([https://example.com](https://github.com/mwberghuis/softsensor?tab=readme-ov-file))
