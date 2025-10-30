@@ -30,4 +30,4 @@ It is used to connect the trained ANFIS model in MATLAB with Python to interface
 
 **FSI COMSOL Simulation** 
 This section contains files and instructions related to the Fluid–Solid Interaction (FSI) simulation performed in COMSOL Multiphysics.
-A detailed description and simulation data can be found at the following link: [Link text]([https://example.com](https://github.com/mwberghuis/softsensor?tab=readme-ov-file))
+A detailed description and simulation data can be found at the following [link](https://github.com/mwberghuis/softsensor?tab=readme-ov-file)
